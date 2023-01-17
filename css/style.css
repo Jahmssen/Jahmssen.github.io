@@ -45,9 +45,10 @@ li{
 
 
 .contact-btn{
-    padding-left: 7.5rem;
+    padding-left: 45%;
     padding-bottom: 5rem;
 }
 
 .contact{
- padding-left: 7rem;}
+    text-align: center;
+}
